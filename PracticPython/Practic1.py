@@ -272,7 +272,3 @@
 # area = width * height
 # print("Площадь прямоугольника:", area)
 
-
-
-
-
