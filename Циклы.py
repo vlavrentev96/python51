@@ -10,8 +10,61 @@
 #     print(i)
 # print(i)
 # print(f'Сумма чисел пользователя: {sum}')
-for i in range(10):
-    print('%' * i)
-    for j in range(10):
-        print("*", end=' ')
-    print('\n')
+# for i in range(10):
+#     print('%' * i)
+#     for j in range(10):
+#         print("*", end=' ')
+#     print('\n')
+#Цикл while
+#while (Условия):
+    #Программа, инструкции
+# while True:
+#     try:
+#         age = int(input("Введите свой возраст: "))
+#     except ValueError:
+#         print("Введите корректное значение!")
+#         continue #завершает текущую итерацию, игнорирует
+#         # внутренний код и начинает новый виток цикла
+#     break #используется как точка выхода из циклов
+# print("Вы ввели свой возраст - {age}, вы старый!")
+# i = 0
+# while i <= 10:
+#     print(i**2)
+#     i += 1
+# f = 1
+# valueUser = int(input("Введите значение для факториала:"))
+# i = 1
+# while i <= valueUser:
+#     f *= i
+#     print(f"Шаг {i}, значения факториала равно:{f}")
+#     i += 1
+# print(f"ваш факториал равен: {f}")
+# #Проверка строки на палиндром через цикл while
+# stringUser = input("Введите строку для проверки:")
+# #А роза упала на лапу Азора
+# #а буду я у дуба
+# i = len(stringUser) - 1
+# strA = ''
+# while i >= 0:
+#     strA += stringUser[i]
+#     i -= 1
+# if strA == stringUser:
+#     print("Строка палиндром!")
+# else:
+#     print("Строка - не палиндром!")
+# strA = ""
+# for i in stringUser:
+#     strA = i + strA
+# if strA == stringUser:
+#     print()
+# if stringUser == stringUser[::-1]:
+#     print("Строка палиндром!")
+#Метод среза строки
+# stringA = "Hello world"
+# a = stringA[6] # 'w'
+# b = stringA[0:5]# 'Hello'
+# c = stringA[0:5:2] #'Hlo'
+# d = string [0:5:-1] #'olleH'
+#stringB = "".join(reversed(stringA))
+#stringC = ",".join(reversed(stringA)) #'o,l,l,e,H'
+#stringB = " ".split(reversed(stringA))

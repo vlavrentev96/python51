@@ -120,7 +120,3 @@ print("main main".rjust(10, "?")) #Выравнивание по правому 
 print("main main".lstrip()) #Все пробельные символы с левого края будут удалены
 print("main main".rstrip()) #Все пробельные символы с правого края будут удалены
 print("main main".replace("main", "own")) #Заменяет подстроку
-
-
-
-
