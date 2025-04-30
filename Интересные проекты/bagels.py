@@ -25,7 +25,7 @@ def getClues(guess,secretNum):
     clues = []
     for i in range(len(guess)):
         if guess[i] == secretNum[i]:
-            clues.append("Fermi") #Число стоит на своем месте.
+            clues.append("Permi") #Число стоит на своем месте.
         elif guess[i] in secretNum:
             clues.append("Pico") #Число стоит не на своем месте
     if len(clues) == 0:
@@ -56,7 +56,7 @@ def main():
                 break
             if numGuesses > MAX_GUESSES:
                 print("Ваши попытки иссякли")
-                print(f"Вы должныбыли угадать число: {secretNum}")
+                print(f"Вы должны были угадать число: {secretNum}")
         print("Хотите попробовать еще раз?(y/n)")
         if not input('-->').lower().startswith('y'):
             break
