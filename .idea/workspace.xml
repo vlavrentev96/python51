@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a8671df-894f-4534-b399-fb441e97203b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Интересные проекты/paradox_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Рекурсия.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticPython/Функции.Часть2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Интересные проекты/paradox_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Интересные проекты/paradox_data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
     "Python.Practic1.executor": "Run",
     "Python.bagels.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.paradox_data.executor": "Run",
     "Python.Крестики_Нолики_консоль.executor": "Run",
     "Python.Модули и пакеты.executor": "Run",
     "Python.Модуль3.Циклы.Практика.executor": "Run",
