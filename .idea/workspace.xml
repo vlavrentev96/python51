@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a8671df-894f-4534-b399-fb441e97203b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Кортежи, множества, словари.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python51.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Дз, хвосты/Модуль 7.Сортировка и поиск.Часть 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +54,7 @@
     "Python.Кортежи, множества, словари.executor": "Run",
     "Python.Крестики_Нолики_консоль.executor": "Run",
     "Python.Модули и пакеты.executor": "Run",
+    "Python.Модуль 7.Сортировка и поиск.Часть 2.executor": "Run",
     "Python.Модуль3.Циклы.Практика.executor": "Run",
     "Python.Принципы Сортировки.executor": "Run",
     "Python.Работа с файлами.executor": "Run",
