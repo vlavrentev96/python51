@@ -123,5 +123,4 @@ def bubble_sort_optimized(lst):
                 swapped = True
         if not swapped:
             break
-
     return lst
