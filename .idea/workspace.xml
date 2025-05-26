@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a8671df-894f-4534-b399-fb441e97203b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Дз, хвосты/Файлы. Часть1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python51.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ООП.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Дз, хвосты/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Дз, хвосты/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +57,14 @@
     "Python.Модули и пакеты.executor": "Run",
     "Python.Модуль 7.Сортировка и поиск.Часть 2.executor": "Run",
     "Python.Модуль3.Циклы.Практика.executor": "Run",
+    "Python.ООП.executor": "Run",
     "Python.Принципы Сортировки.executor": "Run",
     "Python.Работа с файлами.executor": "Run",
     "Python.Рекурсия.executor": "Run",
     "Python.Файлы. Часть 1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Mp/Documents/GitHub/python51/PracticPython",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
@@ -100,7 +102,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
